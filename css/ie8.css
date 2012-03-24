@@ -1,0 +1,17 @@
+﻿.old-browsers-header{
+	padding:30px 0;
+	height:60px;
+	}
+.old-browsers-footer{
+	width:960px;
+	margin:0 auto;
+	padding:30px 0;	
+	}
+.italic-oblique{
+	color:#FFF;
+	font-family:"Crimson Text", Georgia , Arial;
+	font-style:italic;
+	font-size:20px;
+	line-height:23px;
+
+}
