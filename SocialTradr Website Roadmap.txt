@@ -1,0 +1,23 @@
+SocialTradr Website
+
+Url							Page Name				Status
+-----						-----					-----
+
+/index.html					Landing / Home			In Progress
+
+/company/index.html			Who We Are
+/company/values.html		What we believe
+/company/press.html			Press Information
+/company/contact.html		Contact Us
+
+/product/index.html			Feature Tour			Templates Created
+/product/pricing.html		Pricing
+
+app.socialtradr.org/sign_up
+
+
+-----------
+Future Work
+-----------
+
+blog.socialtradr.org		Company Blog
