@@ -17,6 +17,13 @@ app.socialtradr.org/sign_up
 
 
 -----------
+Notes
+-----------
+
+sign_up page should just be a beta signup input your email box. Let's get
+some customer development going on here.
+
+-----------
 Future Work
 -----------
 
