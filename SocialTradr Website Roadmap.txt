@@ -3,11 +3,11 @@ SocialTradr Website
 Url							Page Name				Status
 -----						-----					-----
 
-/index.html					Landing / Home			In Progress
+/index.html					Landing / Home			Done
 
-/company/index.html			Who We Are
+/company/index.html			Who We Are				Needs 50 words about the team
 /company/values.html		What we believe
-/company/press.html			Press Information
+/company/press.html			Press Information		Needs history
 /company/contact.html		Contact Us
 
 /product/index.html			Feature Tour			Templates Created
